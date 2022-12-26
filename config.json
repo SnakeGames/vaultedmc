@@ -1,0 +1,12 @@
+{
+	"prefix": "-",
+	"verifyRole": "1038684312750530571",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	},
+    "extra": {
+        "developers": {
+            "snake": "194115548223766528"
+    }
+	}
+}
